@@ -1,0 +1,12 @@
+{
+  "name": "heroku-project",
+  "version": "1.0.0",
+  "description": "nodejs to heroku",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mvt1927",
+  "license": "ISC"
+}
